@@ -1,0 +1,13 @@
+{
+  "name": "aws-lambda-sqs-mailchimp",
+  "version": "0.0.1",
+  "description": "AWS Lambda function that integrates SQS and Mailchimp new subscriptions",
+  "main": "index.js",
+  "repository" : {
+    "type" : "git",
+    "url" : "https://github.com/leaflevellabs/aws-lambda-sqs-mailchimp.git"
+  },
+  "dependencies": {
+    "restler": "3.4.0"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "configLocation" : "configurations",
+  "mailChimpUsername": "",
+  "mailChimpPassword": "",
+  "mailChimpNewsletterId" : "",
+  "mailChimpDC" : "",
+  "queueUrl": ""
+}
